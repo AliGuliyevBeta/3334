@@ -1,0 +1,10 @@
+
+int x = 5;
+if(x > 0)
+{
+    Console.WriteLine("The number is positive");
+}
+else
+{
+    Console.WriteLine("The number is Negative");
+}
